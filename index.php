@@ -1,4 +1,9 @@
 <?php
+	define('HOST','localhost');
+	define('USER','root');
+	define('PASSWORD','');
+	define('DATABASE','teste');
+
 	include 'config.php';
 
 	use System\Controller as C_System;

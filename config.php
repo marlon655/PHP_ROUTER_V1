@@ -1,6 +1,8 @@
 <?php
 
 	$autoloader = function($filePath){
+		echo $filePath;
+		echo "<br>";
 		$path = $filePath;
 		$pathArchive = str_replace("\\", DIRECTORY_SEPARATOR, $path);
 		$pathArchive.=".php";
