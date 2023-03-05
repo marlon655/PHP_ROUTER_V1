@@ -8,4 +8,6 @@
 	use System\Route;
 	
 	Route::GET('contato','contato','info');
+	// Route::GET('noticias','noticias','index');
+	// Route::GET('noticias/?','noticias','single');
 	?>

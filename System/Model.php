@@ -1,6 +1,7 @@
 <?php
 	namespace System;
 	require_once 'Mysql.php';
+	//use System/MySql;
 	use PDO;
 	
 	

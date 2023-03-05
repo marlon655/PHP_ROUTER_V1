@@ -9,6 +9,7 @@ Em breve estarei adicionando alguns arquivos de exemplo e documentação para ut
 ## Futuras Melhorias.
 - Sistema de envio de email de uma maneira facil de se utilizar.
 - Sistema de Apis utilizando a metodologia RESTFULL (HTTP).
+- Sintaxe parecida com Express(node.js).
 
 ## Data de Finalização?
 - Não sei tenho apenas alguns sábados e domingos para desenvolver.
